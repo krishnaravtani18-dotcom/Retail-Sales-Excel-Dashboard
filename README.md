@@ -54,3 +54,12 @@ Tool: Microsoft Excel
 ##  Next Steps
 - Extend this analysis using **Power BI**
 - Implement DAX-based KPIs and advanced visualizations
+
+- ##  Dashboard Preview
+
+### Overview
+![Dashboard Overview](dashboard_overview.png.jpeg)
+
+### Insights View
+![Dashboard Analysis](dashboard_analysis.png.jpeg)
+
