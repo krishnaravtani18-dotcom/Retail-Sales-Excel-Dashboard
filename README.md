@@ -58,8 +58,8 @@ Tool: Microsoft Excel
 - ##  Dashboard Preview
 
 ### Overview
-![Dashboard Overview](dashboard_overview.png.jpeg)
+![Dashboard Overview](images/dashboard_overview.png.jpeg)
 
 ### Insights View
-![Dashboard Analysis](dashboard_analysis.png.jpeg)
+![Dashboard Analysis](images/dashboard_analysis.png.jpeg)
 
